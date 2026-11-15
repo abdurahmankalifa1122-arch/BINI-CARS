@@ -1,0 +1,6 @@
+{
+  "name": "BINI CARS — Luxury Automotive Importer & Showroom in Ethiopia",
+  "description": "BINI CARS is a premier car importer and vehicle sales dealership in Ethiopia offering curated SUVs, executive sedans, and luxury vehicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
