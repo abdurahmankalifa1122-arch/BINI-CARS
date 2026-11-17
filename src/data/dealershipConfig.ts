@@ -1,3 +1,5 @@
+import biniCarsLogo from '../assets/bini-cars-logo.png';
+
 export interface DealershipConfig {
   brandName: string;
   country: string;
@@ -23,7 +25,7 @@ export const DEALERSHIP_CONFIG: DealershipConfig = {
 };
 
 export function getLogoAssetUrl(): string {
-  return `${import.meta.env.BASE_URL}bini-cars-logo.png`;
+  return biniCarsLogo;
 }
 
 export function buildWhatsAppUrl(number: string, message: string): string | null {
